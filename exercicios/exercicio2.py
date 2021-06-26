@@ -6,7 +6,7 @@
 
 classe = list()
 
-for i in range(15):
+for i in range(15): #para rodar 15x
     aluno = dict()
     aluno['nome'] = str (input('Digite o nome: '))
     aluno['notas'] = list()
